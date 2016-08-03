@@ -1,0 +1,8 @@
+Rock1 Rock1 Rock1 Rock1 Rock3 House1_1 House1_2 GrassRoad1 House1_1 House1_2 
+Rock1 Rock1 Rock1 Rock1 Rock3 House1_3 House1_4 GrassRoad1 House1_3 House1_4 
+Rock1 Rock1 Rock1 Rock1 Rock9 Grass1 GrassRoad2 GrassRoad3 GrassRoad2 GrassRoad2 
+Rock2 Rock2 Rock2 Rock9 Grass1 House1_1 House1_2 GrassRoad1 House1_1 House1_2 
+Grass1 Grass1 Grass1 Grass1 Grass1 House1_3 House1_4 GrassRoad1 House1_3 House1_4 
+Water1 Water1 Water1 Water1 Water1 Water1 Water1 Water1 Water1 Water1 
+Water1 Water1 Water1 Water1 Water1 Water1 Water1 Water1 Water1 Water1 
+Grass1 Grass1 Grass1 Grass1 Grass1 Grass1 Grass1 Grass1 Grass1 Grass1 
