@@ -224,7 +224,7 @@ Windows:
 Textures:
 	The optimal texture formats on iOS are SDL_PIXELFORMAT_ABGR8888, SDL_PIXELFORMAT_ABGR8888, SDL_PIXELFORMAT_BGR888, and SDL_PIXELFORMAT_RGB24 pixel formats.
 
-Loading Shared Interactable:
+Loading Shared Objects:
 	This is disabled by default since it seems to break the terms of the iOS SDK agreement for iOS versions prior to iOS 8. It can be re-enabled in SDL_config_iphoneos.h.
 
 ==============================================================================

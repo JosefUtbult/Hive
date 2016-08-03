@@ -21,9 +21,4 @@ protected:
     bool solid;
 };
 
-<<<<<<< HEAD
-//test
-
-=======
->>>>>>> 938de802b0b5658964b3b1876bb6f45c4a9fc705
 #endif //HIVE_OBJECTS_H

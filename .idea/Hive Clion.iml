@@ -8,16 +8,48 @@
     <orderEntry type="module-library">
       <library name="Header Search Paths">
         <CLASSES>
-          <root url="file:///usr/include" />
           <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
           <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/include" />
           <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Release/deps/zlib-1.2.8" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Release/deps/SDL2-2.0.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Release/deps/libpng-1.6.21" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Release/deps/freetype-2.6.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Debug/deps/zlib-1.2.8" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Debug/deps/SDL2-2.0.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Debug/deps/libpng-1.6.21" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Debug/deps/freetype-2.6.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/RelWithDebInfo/deps/zlib-1.2.8" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/RelWithDebInfo/deps/SDL2-2.0.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/RelWithDebInfo/deps/libpng-1.6.21" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/RelWithDebInfo/deps/freetype-2.6.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/MinSizeRel/deps/zlib-1.2.8" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/MinSizeRel/deps/SDL2-2.0.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/MinSizeRel/deps/libpng-1.6.21" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/MinSizeRel/deps/freetype-2.6.4/include" />
         </CLASSES>
         <SOURCES>
-          <root url="file:///usr/include" />
           <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed" />
           <root url="file:///usr/lib/gcc/x86_64-linux-gnu/4.8/include" />
+          <root url="file:///usr/include" />
           <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Release/deps/zlib-1.2.8" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Release/deps/SDL2-2.0.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Release/deps/libpng-1.6.21" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Release/deps/freetype-2.6.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Debug/deps/zlib-1.2.8" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Debug/deps/SDL2-2.0.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Debug/deps/libpng-1.6.21" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/Debug/deps/freetype-2.6.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/RelWithDebInfo/deps/zlib-1.2.8" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/RelWithDebInfo/deps/SDL2-2.0.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/RelWithDebInfo/deps/libpng-1.6.21" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/RelWithDebInfo/deps/freetype-2.6.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/MinSizeRel/deps/zlib-1.2.8" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/MinSizeRel/deps/SDL2-2.0.4/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/MinSizeRel/deps/libpng-1.6.21" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/Hive-484a6bf1/484a6bf1/MinSizeRel/deps/freetype-2.6.4/include" />
         </SOURCES>
       </library>
     </orderEntry>

@@ -8620,7 +8620,7 @@ EOF
       # Delete the old objects.
       $opt_dry_run || $RM $obj $libobj
 
-      # Interactable from convenience libraries.  This assumes
+      # Objects from convenience libraries.  This assumes
       # single-version convenience libraries.  Whenever we create
       # different ones for PIC/non-PIC, this we'll have to duplicate
       # the extraction.

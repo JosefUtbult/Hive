@@ -111,7 +111,7 @@ typedef khronos_ssize_t  GLsizeiptr;
 #define GL_ONE_MINUS_CONSTANT_ALPHA       0x8004
 #define GL_BLEND_COLOR                    0x8005
 
-/* Buffer Interactable */
+/* Buffer Objects */
 #define GL_ARRAY_BUFFER                   0x8892
 #define GL_ELEMENT_ARRAY_BUFFER           0x8893
 #define GL_ARRAY_BUFFER_BINDING           0x8894

@@ -2,7 +2,7 @@
 /*                                                                         */
 /*  ttobjs.h                                                               */
 /*                                                                         */
-/*    Interactable manager (specification).                                     */
+/*    Objects manager (specification).                                     */
 /*                                                                         */
 /*  Copyright 1996-2016 by                                                 */
 /*  David Turner, Robert Wilhelm, and Werner Lemberg.                      */

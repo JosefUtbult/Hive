@@ -2,7 +2,7 @@
 /*                                                                         */
 /*  ttobjs.c                                                               */
 /*                                                                         */
-/*    Interactable manager (body).                                              */
+/*    Objects manager (body).                                              */
 /*                                                                         */
 /*  Copyright 1996-2016 by                                                 */
 /*  David Turner, Robert Wilhelm, and Werner Lemberg.                      */
