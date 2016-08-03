@@ -1,0 +1,8 @@
+Water9 Water2 Water2 Water6 Sand1 Water9 Water2 Water2 Water2 Water6 
+Water4 Water1 Water1 Water10 Water2 Water13 Water1 Water1 Water1 Water5 
+Water4 Water1 Water1 Water1 Water1 Water1 Water1 Water1 Water1 Water10 
+Water4 Water1 Water1 Water1 Water1 Water1 Water1 Water1 Water1 Water1 
+Water8 Water3 Water3 Water12 Water1 Water1 Water1 Water1 Water1 Water1 
+Grass1 Grass1 Grass1 Water4 Water1 Water11 Water3 Water12 Water1 Water11 
+Grass1 Grass1 Grass1 Water4 Water1 Water5 Sand1 Water4 Water1 Water5 
+Grass1 Grass1 Grass1 Water8 Water12 Water10 Water2 Water13 Water1 Water5 

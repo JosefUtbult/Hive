@@ -1,0 +1,4 @@
+Grass1 GrassRoad1 GrassRoad2 GrassRoad3 House1_1 House1_2 House1_3 House1_4 
+Rock1 Rock2 Rock3 Rock4 Rock5 Rock6 Rock7 Rock8 
+Rock9 Water1 Water2 Water3 Water4 Water5 Water6 Water7 
+Water8 
